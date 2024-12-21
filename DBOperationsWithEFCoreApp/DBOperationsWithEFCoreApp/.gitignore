@@ -1,0 +1,33 @@
+# Ignore build results
+bin/
+obj/
+
+# ASP.NET Core specific files
+wwwroot/dist/
+wwwroot/lib/
+*.db
+*.sqlite
+*.sqlite3
+
+
+# Visual Studio specific files
+.vs/
+.vscode/
+*.vcxproj.user
+*.vcxproj.filters
+
+# MacOS specific files
+.DS_Store
+
+# Packages
+*.nupkg
+*.snupkg
+
+# Dependency directories
+node_modules/
+.bower/
+bower_components/
+
+# File system settings
+.idea/
+.env
