@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "DBOperationsWithEFCoreApp.Controllers.CurrencyController",
+    "Method": "GetAllCurrencies",
+    "RelativePath": "api/currencies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

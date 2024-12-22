@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{557D7077-A8CE-4943-9923-7AA53D806027}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{557D7077-A8CE-4943-9923-7AA53D806027}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|c:\\users\\vinay\\.net\\entityframeworkcore\\efcoreyoutube\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{557D7077-A8CE-4943-9923-7AA53D806027}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{557D7077-A8CE-4943-9923-7AA53D806027}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|c:\\users\\vinay\\.net\\entityframeworkcore\\efcoreyoutube\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{557D7077-A8CE-4943-9923-7AA53D806027}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557D7077-A8CE-4943-9923-7AA53D806027}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|c:\\users\\vinay\\.net\\entityframeworkcore\\efcoreyoutube\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557D7077-A8CE-4943-9923-7AA53D806027}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{557D7077-A8CE-4943-9923-7AA53D806027}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|c:\\users\\vinay\\.net\\entityframeworkcore\\efcoreyoutube\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\data\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,6 +59,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "C:\\Users\\vinay\\.Net\\EntityFrameworkCore\\EFCoreYoutube\\DbOperationsWithEfCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Controllers\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Controllers\\CurrencyController.cs",
+              "ToolTip": "C:\\Users\\vinay\\.Net\\EntityFrameworkCore\\EFCoreYoutube\\DbOperationsWithEfCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Controllers\\CurrencyController.cs",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Controllers\\CurrencyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:37:13.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "BookPrice.cs",
               "DocumentMoniker": "C:\\Users\\vinay\\.Net\\EntityFrameworkCore\\EFCoreYoutube\\DbOperationsWithEfCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\BookPrice.cs",
@@ -67,7 +80,8 @@
               "RelativeToolTip": "DBOperationsWithEFCoreApp\\Data\\BookPrice.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T09:20:31.089Z"
+              "WhenOpened": "2024-12-21T09:20:31.089Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -79,7 +93,8 @@
               "RelativeToolTip": "DBOperationsWithEFCoreApp\\Data\\Currency.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T09:18:58.068Z"
+              "WhenOpened": "2024-12-21T09:18:58.068Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -91,17 +106,18 @@
               "RelativeToolTip": "DBOperationsWithEFCoreApp\\Data\\Language.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T08:39:27.676Z"
+              "WhenOpened": "2024-12-21T08:39:27.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\vinay\\.Net\\EntityFrameworkCore\\EFCoreYoutube\\DbOperationsWithEfCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\vinay\\.Net\\EntityFrameworkCore\\EFCoreYoutube\\DbOperationsWithEfCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\AppDbContext.cs",
               "RelativeToolTip": "DBOperationsWithEFCoreApp\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T08:17:32.174Z",
               "EditorCaption": ""
@@ -116,7 +132,8 @@
               "RelativeToolTip": "DBOperationsWithEFCoreApp\\Data\\Book.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAuwAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T08:15:38.168Z"
+              "WhenOpened": "2024-12-21T08:15:38.168Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -126,22 +143,10 @@
               "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Program.cs",
               "ToolTip": "C:\\Users\\vinay\\.Net\\EntityFrameworkCore\\EFCoreYoutube\\DbOperationsWithEfCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Program.cs",
               "RelativeToolTip": "DBOperationsWithEFCoreApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T06:41:45.978Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CurrencyController.cs",
-              "DocumentMoniker": "C:\\Users\\vinay\\.Net\\EntityFrameworkCore\\EFCoreYoutube\\DbOperationsWithEfCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Controllers\\CurrencyController.cs",
-              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Controllers\\CurrencyController.cs",
-              "ToolTip": "C:\\Users\\vinay\\.Net\\EntityFrameworkCore\\EFCoreYoutube\\DbOperationsWithEfCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Controllers\\CurrencyController.cs",
-              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Controllers\\CurrencyController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T13:37:13.361Z"
             }
           ]
         }
